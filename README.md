@@ -27,4 +27,4 @@ I have deployed this app on firebase at [https://hulu-clone-f9922.web.app/](http
 
 Feel free to give your feedbacks and you can also reach out to me at 
 
-**My portfolio** --> kaushikbanerjee.epizy.com
+**My portfolio** --> <a href="kaushikbanerjee.epizy.com">kaushikbanerjee.epizy.com</a>
