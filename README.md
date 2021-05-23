@@ -24,6 +24,12 @@ I have deployed this app on firebase at [https://hulu-clone-f9922.web.app/](http
 ---
 <br>
 
+## Example
+
+<p align="center">
+  <img src="img/img.png" /> 
+</p>
+
 Feel free to give your feedbacks and you can also reach out to me at 
 
 **My portfolio** --> <a href="kaushikbanerjee.epizy.com">kaushikbanerjee.epizy.com</a>
