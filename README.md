@@ -9,13 +9,9 @@ I have deployed this app on vercel at [https://hulu-clone-kaushikbanerjee.vercel
 
 ## What is in it?
 
-- You can surf around the site to find details about your favourite movies.
 - Watchlist functionality is there and you can add *yet to be watched* movies into that list.
 - Movies are segregated by various genres and you can look around for movies in whatever genre you prefer.
-- There is a search functionality available and don't forget to choose whether you are searching for a movie or a tv show. 
-- Casting Page is available, just look for the button. 
-- Some of your local language movies may be available, try looking for them.
-  
+
 ## What's not in it? 
 
 - Obviously, you **can't watch** any of the movies or tv shows. This is just a project for my portfolio. 
