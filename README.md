@@ -1,2 +1,30 @@
-# hulu-clone-2.0
-A Hulu clone using Next JS, Tailwind CSS &amp; Heroicons for the front-end and TMDB API for the data.
+# Hulu Clone by Kaushik
+
+This is a portfolio project that I did most of the parts on my own.
+<br>
+
+I have deployed this app on firebase at [https://hulu-clone-f9922.web.app/](https://hulu-clone-f9922.web.app/).
+
+---
+
+## What is in it?
+
+- You can surf around the site to find details about your favourite movies.
+- Watchlist functionality is there and you can add *yet to be watched* movies into that list.
+- Movies are segregated by various genres and you can look around for movies in whatever genre you prefer.
+- There is a search functionality available and don't forget to choose whether you are searching for a movie or a tv show. 
+- Casting Page is available, just look for the button. 
+- Some of your local language movies may be available, try looking for them.
+  
+## What's not in it? 
+
+- Obviously, you **can't watch** any of the movies or tv shows. This is just a project for my portfolio. 
+- ~~There is an unsolved bug, the **page whites out** when you reload or hit *open link in new tab*.~~
+- ~~Don't try **altering the url**, it won't work either.~~
+
+---
+<br>
+
+Feel free to give your feedbacks and you can also reach out to me at 
+
+**My portfolio** --> kaushikbanerjee.epizy.com
