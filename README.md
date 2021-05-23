@@ -3,7 +3,7 @@
 A Hulu clone using Next JS, Tailwind CSS & Heroicons for the front-end and TMDB API for the data.
 <br>
 
-I have deployed this app on firebase at [https://hulu-clone-f9922.web.app/](https://hulu-clone-f9922.web.app/).
+I have deployed this app on vercel at [https://hulu-clone-kaushikbanerjee.vercel.app/](https://hulu-clone-kaushikbanerjee.vercel.app/).
 
 ---
 
