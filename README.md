@@ -1,6 +1,6 @@
 # Hulu Clone by Kaushik
 
-This is a portfolio project that I did most of the parts on my own.
+A Hulu clone using Next JS, Tailwind CSS & Heroicons for the front-end and TMDB API for the data.
 <br>
 
 I have deployed this app on firebase at [https://hulu-clone-f9922.web.app/](https://hulu-clone-f9922.web.app/).
